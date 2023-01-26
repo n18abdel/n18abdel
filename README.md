@@ -28,6 +28,9 @@
 <a href="https://linkedin.com/in/nassim-a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:abdelghani.nassim@gmail.com" target="_blank">
+<img src=https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge alt=mail style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
